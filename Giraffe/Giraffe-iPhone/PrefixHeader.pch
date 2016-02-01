@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  Giraffe
+//
+//  Created by yanpei on 25/1/16.
+//
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <UIKit/UIKit.h>
+#import "YPSingleton.h"
+
+#endif /* PrefixHeader_pch */

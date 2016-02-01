@@ -1,0 +1,17 @@
+{
+  "name": "YSingleton",
+  "version": "1.0.0",
+  "summary": "A simple singleton macro for objective-C.",
+  "homepage": "https://github.com/yanpei526/YSingleton",
+  "license": "LICENSE",
+  "authors": "yanpei",
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source": {
+    "git": "https://github.com/yanpei526/YSingleton.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "*.h",
+  "requires_arc": true
+}
